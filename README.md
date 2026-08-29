@@ -84,7 +84,7 @@ $ echo $FUN_FACT
 I've got an open game running — click below to make a move. It plays out live, right here in this README.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Chess%3A+e2e4"><img src="https://img.shields.io/badge/♟️_PLAY_A_MOVE-0D1117?style=for-the-badge&logoColor=00FF41&color=0D1117" /></a>
+  <a href="https://github.com/theDIVtag/theDIVtag/issues/new?title=Chess%3A+e2e4"><img src="https://img.shields.io/badge/♟️_PLAY_A_MOVE-0D1117?style=for-the-badge&logoColor=00FF41&color=0D1117" /></a>
 </p>
 
 <!-- BEGIN CHESS BOARD -->
