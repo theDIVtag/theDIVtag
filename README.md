@@ -5,11 +5,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=190&section=header&text=Hi,%20I'm%20Divyansh%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer&descAlignY=58&descSize=18" />
 </p>
 
+
 <!-- Typing animation -->
 <p align="center">
-   (https://readme-typing-svg.demolab.com/?lines=Web+Developer+%F0%9F%92%BB;I+turn+coffee+into+code)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Web+Developer+💻;I+turn+coffee+into+code;Building+the+web%2C+one+bug+at+a+time;Always+shipping%2C+always+learning+🚀" alt="Typing SVG" />
   </a>
 </p>
+
 
 <!-- Socials -->
 <p align="center">
