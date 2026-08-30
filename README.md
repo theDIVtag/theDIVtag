@@ -1,4 +1,5 @@
 <!-- Terminal-style header banner -->
+![Header](./your-header-image-name.png)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=140&section=header&text=DIVYANSH_SHARMA.exe&fontColor=00FF41&fontSize=34&fontAlignY=55&desc=DEV.MARKETS%20%7C%20STATUS:%20ONLINE&descAlignY=78&descColor=00FF41" />
 </p>
