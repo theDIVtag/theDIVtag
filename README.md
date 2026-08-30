@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer+💻;I+turn+coffee+into+code)](https://git.io/typing-svg)
+   (https://readme-typing-svg.demolab.com/?lines=Web+Developer+%F0%9F%92%BB;I+turn+coffee+into+code)](https://git.io/typing-svg)
   </a>
 </p>
 
