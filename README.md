@@ -72,7 +72,7 @@ $ echo $FUN_FACT
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/theDIVtag/theDIVtag/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 > One-time setup needed — see `snake.yml`. GitHub Actions then animates a snake eating your contribution graph daily.
