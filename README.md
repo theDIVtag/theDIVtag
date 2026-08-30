@@ -9,7 +9,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=A78BFA&center=true&vCenter=true&width=1200&lines=Programming+isn%27t+about+what+you+know%3B+it%27s+about+what+you+can+figure+out.;Every+great+developer+you+know+got+there+by+solving+problems+they+were+unqualified+to+solve+until+they+actually+did+it." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=A78BFA&center=true&vCenter=true&width=1200&lines=Programming+isn%27t+about+what+you+know%3B+it%27s+about+what+you+can+figure+out.;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -64,7 +64,12 @@ An animated, isometric 3D city built from my actual contribution graph — regen
 
   <img height="165" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 </p>
-
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=A78BFA&center=true&vCenter=true&width=1200&lines=Every+great+developer+you+know+got+there+by+solving+problems+they+were+unqualified+to+solve+until+they+actually+did+it." alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 ### 🐍 Contribution Snake
