@@ -67,7 +67,7 @@ An animated, isometric 3D city built from my actual contribution graph — regen
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=A78BFA&center=true&vCenter=true&width=1200&lines=Every+great+developer+you+know+got+there+by+solving+problems+they+were+unqualified+to+solve+until+they+actually+did+it." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=A78BFA&center=true&vCenter=true&width=1200&lines=Every+great+developer+you+know+got+there+by+solving+problems;they+were+unqualified+to+solve+until+they+actually+did+it." alt="Typing SVG" />
   </a>
 </p>
 ---
