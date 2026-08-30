@@ -2,7 +2,7 @@
 ![Header](./github-header-banner.png)
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=190&section=header&text=Just Kidding!!,%20I'm%20Divyansh%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=190&section=header&text=Just%20Kidding%21%21%21,%20I'm%20Divyansh%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer&descAlignY=58&descSize=18" />
 </p>
 
 
