@@ -56,9 +56,7 @@ An animated, isometric 3D city built from my actual contribution graph — regen
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theDIVtag&hide_border=true&background=0D1117&ring=A78BFA&fire=8E2DE2&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=A78BFA" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=theDIVtag&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=theDIVtag&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C3E0&icon_color=A78BFA&count_private=true" />
