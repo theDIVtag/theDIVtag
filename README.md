@@ -1,70 +1,68 @@
 <!-- Terminal-style header banner -->
 ![Header](./github-header-banner.png)
+<!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=140&section=header&text=DIVYANSH_SHARMA.exe&fontColor=00FF41&fontSize=34&fontAlignY=55&desc=DEV.MARKETS%20%7C%20STATUS:%20ONLINE&descAlignY=78&descColor=00FF41" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=190&section=header&text=Hi,%20I'm%20Divyansh%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer&descAlignY=58&descSize=18" />
 </p>
 
-<!-- Stock-ticker style typing animation -->
+<!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=%24DIV_SHARMA+%E2%96%B2+%2B42.0%25;%24JAVASCRIPT+%E2%96%B2+%2B99.9%25;%24REACT+%E2%96%B2+%2B18.3%25;%24NODE_JS+%E2%96%B2+%2B27.1%25;MARKET+STATUS%3A+OPEN+24%2F7" alt="Ticker" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Web+Developer+💻;I+turn+coffee+into+%3Cdiv%3E's;Building+the+web%2C+one+bug+at+a+time;Always+shipping%2C+always+learning+🚀" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Social badges -->
+<!-- Socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/dsdivyanshsh2109/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
-  <a href="mailto:dsdivyanshsh@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0D1117&label=VISITORS" />
+  <a href="https://www.linkedin.com/in/dsdivyanshsh2109/"><img src="https://img.shields.io/badge/LinkedIn-4A00E0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dsdivyanshsh@gmail.com"><img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=theDIVtag&style=for-the-badge&color=4A00E0&label=VISITORS" />
 </p>
 
 ---
 
-### `>_` Terminal Boot Log
+### 🧑‍💻 About Me
 
-```bash
-$ whoami
-divyansh_sharma — web developer
-
-$ cat mission.txt
-Building things for the web. Always compiling new skills.
-
-$ echo $FUN_FACT
-"My name starts with <div> — it was basically destiny."
+```javascript
+const divyansh = {
+  role: "Web Developer",
+  funFact: "my name literally starts with <div> — it was destiny",
+  currentlyBuilding: "cool things for the web",
+  currentlyLearning: ["TypeScript", "Backend architecture"],
+  askMeAbout: ["web dev", "JavaScript", "React"],
+  reachMe: "dsdivyanshsh@gmail.com",
+};
 ```
 
 ---
 
-### 📈 Portfolio — Tech Holdings
+### 🛠️ Tech Stack
 
-| Symbol | Asset | Change |
-|:------:|:------|:------:|
-| `$JS`  | ![badge](https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E) | 🟢 +99.9% |
-| `$TS`  | ![badge](https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=3178C6) | 🟢 +42.0% |
-| `$REACT` | ![badge](https://img.shields.io/badge/-React-0D1117?logo=react&logoColor=61DAFB) | 🟢 +18.3% |
-| `$NODE` | ![badge](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js&logoColor=339933) | 🟢 +27.1% |
-| `$MONGO` | ![badge](https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb&logoColor=47A248) | 🟢 +12.7% |
-| `$GIT` | ![badge](https://img.shields.io/badge/-Git-0D1117?logo=git&logoColor=F05032) | 🟢 +100% |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,figma,vscode&theme=dark" />
+</p>
 
 ---
 
-### 📊 Live Market Data (GitHub Stats)
+### 🌆 My Contributions in 3D
+
+An animated, isometric 3D city built from my actual contribution graph — regenerated automatically every day.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theDIVtag&hide_border=true&background=0D1117&ring=A78BFA&fire=8E2DE2&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=A78BFA" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=10&row=1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theDIVtag&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C3E0&icon_color=A78BFA&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theDIVtag&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C3E0" />
 </p>
 
 ---
@@ -75,22 +73,18 @@ $ echo $FUN_FACT
   <img src="https://raw.githubusercontent.com/theDIVtag/theDIVtag/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> One-time setup needed — see `snake.yml`. GitHub Actions then animates a snake eating your contribution graph daily.
-
 ---
 
-### 🎮 Play Debug Dash
+### 🎮 Debug Dash — a game I built
 
-I built a real, playable browser game — bugs sneak into live code lines and you have to click-squash them before they ship to production. Gets faster the higher you score.
+Bugs sneak into live code lines, and you have to click-squash them before they ship to production. Combo multipliers, ramping difficulty, and typos like `lenght` and `retrun` waiting to be squashed.
 
 <p align="center">
-  <a href="https://theDIVtag.github.io/debug-dash/"><img src="https://img.shields.io/badge/▶_PLAY_DEBUG_DASH-0D1117?style=for-the-badge&logoColor=00FF41&color=0D1117&labelColor=0D1117" /></a>
+  <a href="https://thedivtag.github.io/debug-dash/"><img src="https://img.shields.io/badge/▶_PLAY_DEBUG_DASH-8E2DE2?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-> One-time setup: host `index.html` on GitHub Pages (5-minute setup, steps below), then swap the link above for your real Pages URL.
-
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=100&section=footer&text=MARKET%20CLOSED%20•%20SEE%20YOU%20TOMORROW&fontColor=00FF41&fontSize=16&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=110&section=footer" />
 </p>
