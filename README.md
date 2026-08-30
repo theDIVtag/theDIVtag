@@ -7,8 +7,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">Web Developer 💻;I turn coffee into code;)](https://git.io/typing-svg)
-    <img src="https://readme-typing-svg.demolab.com/font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Web+Developer+💻;I+turn+coffee+into+%EF%BC%9Cdiv%EF%BC%9E's;Building+the+web%2C+one+bug+at+a+time;Always+shipping%2C+always+learning+🚀" alt="Typing SVG" />
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer+💻;I+turn+coffee+into+code)](https://git.io/typing-svg)
   </a>
 </p>
 
